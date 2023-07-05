@@ -27,4 +27,5 @@
 
 
 Voila! Your done! Enjoy your damn mashed potatos.
-![](mashed_potato.md)
+
+<img src="Mashed-Potato.jpg" alt="potatos" width="300"/>
