@@ -35,11 +35,15 @@ Sour herring is sold both whole and as fillets.
 ## Step 6
 
 **Reserve about 5 quarts of brine and pour off the rest.** Mix the reserved brine back in and add about 5 gallons of 12 degree brine.
-![](aid5366708-v4-728px-Make-Surstromming-Step-7.jpg.jfif)
+
+<img src="img/aid5366708-v4-728px-Make-Surstromming-Step-7.jpg.jfif" alt="finished fish" width="400"/>
 
 ## Step 7
 
 **Move it indoors to a cool, dark place to let the fermentation continue until mid-August.** Surstromming experts recommend that it be kept at a temperature of 63-65ºF(17-18ºC).
 
+<img src="img/aid5366708-v4-728px-Make-Surstromming-Final.jpg.jfif" alt="finished fish" width="400"/>
+
 ## Finished!
-![](aid5366708-v4-728px-Make-Surstromming-Final.jpg.jfif)
+
+
