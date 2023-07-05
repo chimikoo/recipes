@@ -1,4 +1,4 @@
-# Mashed potatos
+# Mashed potatos (pomme Puree)
 
 > This is an example of a simple mashed potato recipe provided for the purpose of explaining how to write a recipe in Markdown.
 
@@ -27,3 +27,4 @@
 
 
 Voila! Your done! Enjoy your damn mashed potatos.
+![](mashed_potato.md)
