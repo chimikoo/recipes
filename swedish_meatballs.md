@@ -1,6 +1,8 @@
 # Swedish Meatballs
 
-<center><img src="meatballs.jpg" alt="drawing" style="width:300px;"/></center>
+<center> 
+    <img src="img/meatballs.jpg" alt="drawing" style="width:300px;"/> 
+</center>
 
 
 # Ingredients

@@ -28,4 +28,4 @@
 
 Voila! Your done! Enjoy your damn mashed potatos.
 
-<img src="Mashed-Potato.jpg" alt="potatos" width="300"/>
+<img src="img/Mashed-Potato.jpg" alt="potatos" width="300"/>
